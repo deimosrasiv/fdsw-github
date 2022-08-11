@@ -4,7 +4,7 @@ body {
 
 /* Hero Section */
 
-#Hero-Section {
+#hero {
   background-image: url("https://picsum.photos/1051/700");
   background-repeat: no-repeat;
   background-size: cover;
@@ -37,6 +37,12 @@ body {
   }
 
 }
+
 .sinlinea{
   text-decoration: none;
+}
+
+.hero
+{
+  color: black;
 }
